@@ -1,0 +1,28 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Robert-Burns_59571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burns, Robert
+    birthdate: 1759
+    deathdate: 1796
+    gutenberg_agent_id: '583'
+    url: http://www.gutenberg.org/2009/agents/583
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Burns
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Robert Burns
+url: http://www.gutenberg.org/ebooks/59571
